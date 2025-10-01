@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Professional-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Made%20With-SQL%20%26%20Python-orange?style=for-the-badge" />
-</p>
-
 <h1 align="center">🧹 Data Cleaning & Preprocessing Repository</h1>
 <p align="center">Transforming raw, messy datasets into structured, analytics-ready data pipelines.</p>
 
